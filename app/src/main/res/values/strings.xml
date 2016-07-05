@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SRTPYTX</string>
+    <string name="login_tv">登录</string>
+    <string name="regist_tv">注册</string>
+    <string name="shopping_tv">商城</string>
+    <string name="service_tv">服务</string>
+    <string name="friends_tv">朋友</string>
+    <string name="home_tv">我的</string>
+    <string name="index_looks_tv">机械设备</string>
+    <string name="index_looks_info_tv">我们的机械设备</string>
+    <string name="index_shopping_tv">工业仪表</string>
+    <string name="index_shopping_info_tv">我们的机械设备</string>
+    <string name="index_show_tv">自控系统</string>
+    <string name="index_show_info_tv">我们的机械设备</string>
+    <string name="index_search_tv">仪器</string>
+    <string name="index_search_info_tv">我们的机械设备</string>
+    <string name="index_browse_tv">电工电气</string>
+    <string name="index_browse_info_tv">我们的机械设备</string>
+</resources>
